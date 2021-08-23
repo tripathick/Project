@@ -1,1 +1,1 @@
-Python Project through coding block
+Python Project
